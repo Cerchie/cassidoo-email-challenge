@@ -1,4 +1,4 @@
-# cassidoo-email-challenge
+# cassidoo-email-challenge-oct-18-22
 
 Code challenge from Cassidy William's weekly newsletter in Oct 18-22.
 
